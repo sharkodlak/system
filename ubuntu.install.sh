@@ -7,7 +7,7 @@ apt-get install -y chrome-gnome-shell #gir1.2-gtop-2.0 gir1.2-networkmanager-1.0
 # Visit https://extensions.gnome.org/extension/120/system-monitor/
 
 # Work
-apt-get install -y git php-cli vagrant virtualbox virtualbox-guest-additions-iso
+apt-get install -y git gitk php-cli vagrant virtualbox virtualbox-guest-additions-iso
 snap install atom --classic
 
 # Browsers

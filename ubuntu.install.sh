@@ -11,6 +11,7 @@ apt-get install -y git gitk php-cli vagrant virtualbox virtualbox-guest-addition
 snap install atom --classic
 
 # Browsers
+apt-get install profile-sync-daemon
 snap install opera
 
 # Net

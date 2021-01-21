@@ -18,7 +18,8 @@ apt-get install -y net-tools wakeonlan
 apt-get install -y mplayer smplayer
 
 # Wine
-apt-get install -y wine-stable winbind
+apt-get install -y wine-stable winbind winetricks
+winetricks dxvk
 
 # Other
 apt-get install -y gparted htop
